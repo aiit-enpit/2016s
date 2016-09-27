@@ -33,7 +33,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 ## NYAMCO "おなかSwitter"
 * description: お腹が減ったらSwitter
 * source: 
-* service:: 
+* service: 
 * CI/test: 
 * backlog: 
 * members: @a1624(Koala Cheung), @xxxx
