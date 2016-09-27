@@ -20,12 +20,12 @@ please update your service by your self
 
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
-## るてにうむ ""
+## るてにうむ "プロポーズの窓口"
 * description: 
 * source: 
 * service: 
 * CI/test: 
 * backlog: 
 * business hours: 
-* members: @minimaru, 
+* members: @minimaru, @terra-yucco
 * notes:
