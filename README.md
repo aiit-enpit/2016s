@@ -29,3 +29,13 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * business hours: 
 * members: @minimaru, 
 * notes:
+
+## SDD "<service name>"
+* description:
+* source: 
+* service:
+* CI/test:
+* backlog:
+* members: takahashiko,
+* business hours: saturday 13:00-15:30
+* notes:
