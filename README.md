@@ -19,3 +19,13 @@ Web Application development by agile method in class 2016
 please update your service by your self
 
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
+
+## るてにうむ ""
+* description: 
+* source: 
+* service: 
+* CI/test: 
+* backlog: 
+* business hours: 
+* members: @minimaru, 
+* notes:
