@@ -29,3 +29,13 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * business hours: 
 * members: @minimaru, @terra-yucco
 * notes:
+
+## NYAMCO "おなかSwitter"
+* description: お腹が減ったらSwitter
+* source: 
+* service:: 
+* CI/test: 
+* backlog: 
+* members: @a1624(Koala Cheung), @xxxx
+* business hours: saturday 13:00-18:00
+* notes:
