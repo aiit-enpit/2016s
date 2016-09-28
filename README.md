@@ -39,3 +39,14 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * members: @a1624(Koala Cheung), @xxxx
 * business hours: saturday 13:00-18:00
 * notes:
+
+## Himeji ""
+* description: 
+* source: coming soon
+* service: coming soon
+* CI/test: coming soon
+* backlog: coming soon
+* business hours: coming soon
+* members: @tomomi-rivers, @a-rom, @a1630ty, @moritou-ruby, @kurasawanko
+* notes:
+
