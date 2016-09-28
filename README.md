@@ -46,6 +46,6 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * service:
 * CI/test:
 * backlog:
-* members: @tkhgsh(PO), @HirokiTakenaka(SM), @tantan5
+* members: @tkhgsh(東), @HirokiTakenaka(竹中), @tantan5(村瀬)
 * business hours: saturday 15:00-19:00
 * notes:
