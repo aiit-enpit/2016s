@@ -21,14 +21,14 @@ please update your service by your self
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## るてにうむ "プロポーズの窓口"
-* description: 
-* source: 
-* service: 
-* CI/test: 
-* backlog: 
-* business hours: 
-* members: @minimaru, @terra-yucco
-* notes:
+* description: coming soon
+* source: coming soon
+* service: coming soon
+* CI/test: coming soon
+* backlog: coming soon
+* business hours: coming soon
+* members: @minimarui (Nakayama Hiroyuki), @terra-yucco (Terashima Yuko), @cloudliner (Ohno Kiyoshi), @b1621ry (Yamada Ryoma), @dtakeshima (Takeshima Daichi)
+* notes: -
 
 ## NYAMCO "おなかSwitter"
 * description: お腹が減ったらSwitter
