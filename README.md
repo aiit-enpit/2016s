@@ -39,3 +39,13 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * members: @a1624(Koala Cheung), @xxxx
 * business hours: saturday 13:00-18:00
 * notes:
+
+## CodeBelle "ふらっと世界"
+* description: 個人ブース型バーチャル旅行体験施設
+* source:
+* service:
+* CI/test:
+* backlog:
+* members: @tkhgsh(PO), @HirokiTakenaka(SM), @tantan5
+* business hours: saturday 15:00-19:00
+* notes:
