@@ -50,3 +50,12 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * members: [@tomomi-rivers](https://github.com/tomomi-rivers), [@a-rom](https://github.com/a-rom), [@a1630ty](https://github.com/a1630ty), [@moriton-ruby](), [@kurasawanko](https://github.com/kurasawanko)
 * notes:
 
+## CodeBelle "ふらっと世界"
+* description: 個人ブース型バーチャル旅行体験施設
+* source:
+* service:
+* CI/test:
+* backlog:
+* members: @tkhgsh(東), @HirokiTakenaka(竹中), @tantan5(村瀬)
+* business hours: saturday 15:00-19:00
+* notes:
