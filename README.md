@@ -27,7 +27,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * CI/test: 
 * backlog: 
 * business hours: 
-* members: @minimaru, @terra-yucco
+* members: @minimaru, @terra-yucco, @cloudliner, @b1621ry, @dtakeshima
 * notes:
 
 ## NYAMCO "おなかSwitter"
