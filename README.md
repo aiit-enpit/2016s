@@ -47,6 +47,6 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * CI/test: coming soon
 * backlog: coming soon
 * business hours: coming soon
-* members: [@tomomi-rivers](https://github.com/tomomi-rivers), [@a-rom](https://github.com/a-rom), [@a1630ty](https://github.com/a1630ty), [@moritou-ruby](https://github.com/moritou-ruby), [@kurasawanko](https://github.com/kurasawanko)
+* members: [@tomomi-rivers](https://github.com/tomomi-rivers), [@a-rom](https://github.com/a-rom), [@a1630ty](https://github.com/a1630ty), [@moriton-ruby](), [@kurasawanko](https://github.com/kurasawanko)
 * notes:
 
