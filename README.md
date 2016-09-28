@@ -50,3 +50,14 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * members: [@tomomi-rivers](https://github.com/tomomi-rivers), [@a-rom](https://github.com/a-rom), [@a1630ty](https://github.com/a1630ty), [@moriton-ruby](), [@kurasawanko](https://github.com/kurasawanko)
 * notes:
 
+
+## SSD3  ""
+* description: 
+* source: coming soon
+* service: coming soon
+* CI/test: coming soon
+* backlog: coming soon
+* business hours: coming soon
+* members: @takahashiko, 
+* notes:
+
