@@ -36,7 +36,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * service: 
 * CI/test: 
 * backlog: 
-* members: @a1624(Koala Cheung), @z13052hn(), @meeeA(), @makotomotegi(), @yamdayk(), @hiroak()
+* members: @a1624(張 軍), @z13052hn(二宮 啓彰), @meeeA(新井　恵), @makotomotegi(茂木　真), @yamdayk(山田　陽子), @hiroak(大橋　博明)
 * business hours: saturday 13:00-18:00
 * notes:
 
