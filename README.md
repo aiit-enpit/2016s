@@ -32,11 +32,11 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## NYAMCO "おなかSwitter"
 * description: お腹が減ったらSwitter
-* source: 
+* source: https://github.com/aiit2016/nyamco_enpit_team
 * service: 
 * CI/test: 
 * backlog: 
-* members: @a1624(Koala Cheung), @xxxx
+* members: @a1624(Koala Cheung), @z13052hn(), @meeeA(), @makotomotegi(), @yamdayk(), @hiroak()
 * business hours: saturday 13:00-18:00
 * notes:
 
