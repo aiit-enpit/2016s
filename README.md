@@ -52,14 +52,14 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * notes:
 
 
-## SSD3  ""
+## SDD3  ""
 * description: 
-* source: coming soon
+* source:  coming soon
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
-* business hours: coming soon
-* members: @takahashiko, 
+* business hours: saturday 13:00-18:00
+* members: @takahashiko, @IshidaHIRO ,@gittkrd ,@ leyosh 
 * notes:
 
 ## CodeBelle "旅シェルジュ"
