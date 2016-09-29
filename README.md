@@ -75,7 +75,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## ４代目RyuPitブラザーズ "coming soon"
 * description: comming soon
-* source: coming soon
+* source: https://github.com/ryupitbros4/itswitter
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
