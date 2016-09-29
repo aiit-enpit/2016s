@@ -42,7 +42,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## Himeji ""
 * description: 
-* source: coming soon
+* source: [https://github.com/kurasawanko/himeji](https://github.com/kurasawanko/himeji)
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
