@@ -51,9 +51,9 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * notes:
 
 
-## SSD3  ""
+## SDD3  ""
 * description: 
-* source: coming soon
+* source: https://github.com/IshidaHIRO/SDD3
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
