@@ -21,14 +21,14 @@ please update your service by your self
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## るてにうむ "プロポーズの窓口"
-* description: 
-* source: 
-* service: 
-* CI/test: 
-* backlog: 
-* business hours: 
-* members: @minimaru, @terra-yucco
-* notes:
+* description: coming soon
+* source: coming soon
+* service: coming soon
+* CI/test: coming soon
+* backlog: coming soon
+* business hours: coming soon
+* members: @minimarui (Nakayama Hiroyuki), @terra-yucco (Terashima Yuko), @cloudliner (Ohno Kiyoshi), @b1621ry (Yamada Ryoma), @dtakeshima (Takeshima Daichi)
+* notes: -
 
 ## NYAMCO "おなかSwitter"
 * description: お腹が減ったらSwitter
@@ -47,7 +47,19 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * CI/test: coming soon
 * backlog: coming soon
 * business hours: coming soon
-* members: [@tomomi-rivers](https://github.com/tomomi-rivers), [@a-rom](https://github.com/a-rom), [@a1630ty](https://github.com/a1630ty), [@moriton-ruby](), [@kurasawanko](https://github.com/kurasawanko)
+* members: [@tomomi-rivers](https://github.com/tomomi-rivers), [@a-rom](https://github.com/a-rom), [@a1630ty](https://github.com/a1630ty), [@moritoh-ruby](https://github.com/moritoh-ruby), [@kurasawanko](https://github.com/kurasawanko)
+
+* notes:
+
+
+## SSD3  ""
+* description: 
+* source: coming soon
+* service: coming soon
+* CI/test: coming soon
+* backlog: coming soon
+* business hours: coming soon
+* members: @takahashiko, 
 * notes:
 
 ## CodeBelle "ふらっと世界"
