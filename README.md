@@ -62,12 +62,12 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * members: @takahashiko, 
 * notes:
 
-## CodeBelle "ふらっと世界"
-* description: 個人ブース型バーチャル旅行体験施設
-* source:
-* service:
-* CI/test:
-* backlog:
-* members: @tkhgsh(東), @HirokiTakenaka(竹中), @tantan5(村瀬)
+## CodeBelle "旅シェルジュ"
+* description: 漠然とした希望から最適な旅行プランを提案します
+* source: coming soon
+* service: coming soon
+* CI/test: coming soon
+* backlog: coming soon
+* members: @tkhgsh(Higashi), @HirokiTakenaka(Takenaka), @tantan5(Murase), @NerimaRentai(Shima)
 * business hours: saturday 15:00-19:00
 * notes:
