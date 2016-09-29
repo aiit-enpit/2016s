@@ -20,9 +20,9 @@ please update your service by your self
 
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
-## るてにうむ "プロポーズの窓口"
-* description: coming soon
-* source: coming soon
+## るてにうむ "これ買ってきてください。"
+* description: ちょうどいいおいしさをあなたに
+* source: https://github.com/terra-yucco/ruthenium
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
