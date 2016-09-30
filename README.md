@@ -64,7 +64,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## CodeBelle "旅シェルジュ"
 * description: 漠然とした希望から最適な旅行プランを提案します
-* source: coming soon
+* source: https://github.com/tantan5/codeBelle
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
