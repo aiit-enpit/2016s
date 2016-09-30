@@ -23,8 +23,8 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 ## るてにうむ "これ買ってきてください。"
 * description: ちょうどいいおいしさをあなたに
 * source: https://github.com/terra-yucco/ruthenium
-* service: coming soon
-* CI/test: coming soon
+* service: https://dry-earth-41231.herokuapp.com/
+* CI/test: https://travis-ci.org/terra-yucco/ruthenium/
 * backlog: https://trello.com/b/xZEWhF6m/aiit-enpit-2016-ruthenium
 * business hours: coming soon
 * members: @minimarui (Nakayama Hiroyuki), @terra-yucco (Terashima Yuko), @cloudliner (Ohno Kiyoshi), @b1621ry (Yamada Ryoma), @dtakeshima (Takeshima Daichi)
