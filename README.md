@@ -25,7 +25,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * source: https://github.com/terra-yucco/ruthenium
 * service: coming soon
 * CI/test: coming soon
-* backlog: coming soon
+* backlog: https://trello.com/b/xZEWhF6m/aiit-enpit-2016-ruthenium
 * business hours: coming soon
 * members: @minimarui (Nakayama Hiroyuki), @terra-yucco (Terashima Yuko), @cloudliner (Ohno Kiyoshi), @b1621ry (Yamada Ryoma), @dtakeshima (Takeshima Daichi)
 * notes: -
