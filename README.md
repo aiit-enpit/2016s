@@ -51,15 +51,15 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * notes:
 
 
-## SSD3  ""
-* description: 
-* source: coming soon
+## SDD3  "ホットメニュー"
+* description: 食べたいけどやせたいコンビニユーザーに！ 
+* source: https://github.com/IshidaHIRO/SDD3
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
-* business hours: coming soon
-* members: @takahashiko, 
-* notes:
+* business hours: saturday 13:00-18:00
+* members: @takahashiko(Kosei Takahashi), @IshidaHIRO, @gittkrd, @leyosh
+* notes: 
 
 
 ## CodeBelle "旅シェルジュ"
