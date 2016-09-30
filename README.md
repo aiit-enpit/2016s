@@ -40,13 +40,13 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * business hours: saturday 13:00-18:00
 * notes:
 
-## Himeji ""
+## Himeji "コーヒーを飲んだつもり貯金アプリ"
 * description: 
 * source: [https://github.com/kurasawanko/himeji](https://github.com/kurasawanko/himeji)
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
-* business hours: coming soon
+* business hours: saturday 12:30-14:30, thursday 20:00-22:00
 * members: [@tomomi-rivers](https://github.com/tomomi-rivers), [@a-rom](https://github.com/a-rom), [@a1630ty](https://github.com/a1630ty), [@moritoh-ruby](https://github.com/moritoh-ruby), [@kurasawanko](https://github.com/kurasawanko)
 * notes:
 
