@@ -65,8 +65,8 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 ## CodeBelle "旅シェルジュ"
 * description: 漠然とした希望から最適な旅行プランを提案します
 * source: https://github.com/tantan5/codeBelle
-* service: coming soon
-* CI/test: coming soon
+* service: https://tabi-cierge.herokuapp.com/ 
+* CI/test: https://travis-ci.org/tantan5/codeBelle
 * backlog: coming soon
 * members: @tkhgsh(Higashi), @HirokiTakenaka(Takenaka), @tantan5(Murase), @NerimaRentai(Shima)
 * business hours: saturday 15:00-19:00
@@ -82,3 +82,6 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * business hours: monday 12:50~16:10, Wednesday 8:30~11:50
 * members: [@itomasameteo(Itosu Masataka)](https://github.com/itomasameteo), [@Akio-m(Higa Akitika)](https://github.com/Akio-m), [@168572noGihu(Taguti Yuuiti)](https://github.com/168572noGihu), [@e125762(Gibo Keito)](https://github.com/e125762), [@e125743(Itou Takumi)](https://github.com/e125743)
 * notes: 8:00〜22:00以外のcommitを禁止する（オーバーワークは大敵だ）。
+
+
+
