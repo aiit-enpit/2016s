@@ -58,7 +58,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * CI/test: https://travis-ci.org/IshidaHIRO/SDD3
 * backlog: coming soon
 * business hours: saturday 13:00-18:00
-* members: @takahashiko(Kosei Takahashi), @IshidaHIRO(Hiroyuku Ishida), @gittkrd(Kenichiro Hohda), @leyosh(Yoshihiro Yamabe)
+* members: @takahashiko(Kosei Takahashi), @IshidaHIRO(Hiroyuki Ishida), @gittkrd(Kenichiro Hohda), @leyosh(Yoshihiro Yamabe)
 * notes: 
 
 
