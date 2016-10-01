@@ -43,11 +43,11 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 ## Himeji "コーヒーを飲んだつもり貯金アプリ"
 * description: 
 * source: [https://github.com/kurasawanko/himeji](https://github.com/kurasawanko/himeji)
-* service: coming soon
+* service: https://calm-spire-11944.herokuapp.com/
 * CI/test: coming soon
 * backlog: coming soon
 * business hours: saturday 12:30-14:30, thursday 20:00-22:00
-* members: 川部[@tomomi-rivers](https://github.com/tomomi-rivers), 田中[@a-rom](https://github.com/a-rom), 横河[@a1630ty](https://github.com/a1630ty), 森藤[@moritoh-ruby](https://github.com/moritoh-ruby), 倉澤[@kurasawanko](https://github.com/kurasawanko)
+* members: [@tomomi-rivers(tomomi kawabe)](https://github.com/tomomi-rivers), [@a-rom(ayumu tanaka)](https://github.com/a-rom), [@a1630ty(takashi yokogawa)](https://github.com/a1630ty), [@moritoh-ruby(aritomo moritoh)](https://github.com/moritoh-ruby), [@kurasawanko(akane kurasawa)](https://github.com/kurasawanko)
 * notes:
 
 
