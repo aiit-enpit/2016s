@@ -26,7 +26,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
-* business hours: coming soon
+* business hours: Saturday 15:00-19:30
 * members: [@minimaru (Nakayama Hiroyuki)](https://github.com/minimaru), [@terra-yucco (Terashima Yuko)](https://github.com/terra-yucco), [@cloudliner (Ohno Kiyoshi)](https://github.com/cloudliner), [@b1621ry (Yamada Ryoma)](https://github.com/b1621ry), [@dtakeshima (Takeshima Daichi)](https://github.com/dtakeshima)
 * notes: -
 
