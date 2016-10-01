@@ -20,9 +20,9 @@ please update your service by your self
 
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
-## るてにうむ "プロポーズの窓口"
-* description: coming soon
-* source: coming soon
+## るてにうむ "これ買ってきてください。"
+* description: ちょうどいいおいしさをあなたに
+* source: https://github.com/terra-yucco/ruthenium
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
@@ -32,17 +32,17 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## NYAMCO "おなかSwitter"
 * description: お腹が減ったらSwitter
-* source: 
+* source: https://github.com/aiit2016/nyamco_enpit_team
 * service: 
 * CI/test: 
 * backlog: 
-* members: @a1624(Koala Cheung), @xxxx
+* members: @a1624(張 軍), @z13052hn(二宮 啓彰), @meeeA(新井　恵), @makotomotegi(茂木　真), @yamdayk(山田　陽子), @hiroak(大橋　博明)
 * business hours: saturday 13:00-18:00
 * notes:
 
 ## Himeji ""
 * description: 
-* source: coming soon
+* source: [https://github.com/kurasawanko/himeji](https://github.com/kurasawanko/himeji)
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
@@ -64,7 +64,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## CodeBelle "旅シェルジュ"
 * description: 漠然とした希望から最適な旅行プランを提案します
-* source: coming soon
+* source: https://github.com/tantan5/codeBelle
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
@@ -75,7 +75,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## ４代目RyuPitブラザーズ "coming soon"
 * description: comming soon
-* source: coming soon
+* source: https://github.com/ryupitbros4/itswitter
 * service: coming soon
 * CI/test: coming soon
 * backlog: coming soon
