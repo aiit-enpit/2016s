@@ -73,11 +73,11 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * notes:
 
 
-## ４代目RyuPitブラザーズ "coming soon"
-* description: comming soon
+## ４代目RyuPitブラザーズ "料理、いつくる？"
+* description: 飯、待てぬ。食わねば。
 * source: https://github.com/ryupitbros4/itswitter
-* service: coming soon
-* CI/test: coming soon
+* service: https://limitless-mountain-59911.herokuapp.com/
+* CI/test: https://travis-ci.org/ryupitbros4/itswitter
 * backlog: coming soon
 * business hours: monday 12:50~16:10, Wednesday 8:30~11:50
 * members: [@itomasameteo(Itosu Masataka)](https://github.com/itomasameteo), [@Akio-m(Higa Akitika)](https://github.com/Akio-m), [@168572noGihu(Taguti Yuuiti)](https://github.com/168572noGihu), [@e125762(Gibo Keito)](https://github.com/e125762), [@e125743(Itou Takumi)](https://github.com/e125743)
