@@ -43,7 +43,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 ## Himeji "コーヒーを飲んだつもり貯金アプリ"
 * description: 
 * source: [https://github.com/kurasawanko/himeji](https://github.com/kurasawanko/himeji)
-* service: https://rocky-waters-21208.herokuapp.com/ 
+* service: https://rocky-waters-21208.herokuapp.com/
 * CI/test: coming soon
 * backlog: coming soon
 * business hours: saturday 12:30-14:30, thursday 20:00-22:00
