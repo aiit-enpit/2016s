@@ -45,7 +45,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * source: [https://github.com/kurasawanko/himeji](https://github.com/kurasawanko/himeji)
 * service: https://rocky-waters-21208.herokuapp.com/
 * CI/test: coming soon
-* backlog: coming soon
+* backlog: https://trello.com/b/bfQiEIEH/himeji
 * business hours: saturday 12:30-14:30, thursday 20:00-22:00
 * members: [@tomomi-rivers(tomomi kawabe)](https://github.com/tomomi-rivers), [@a-rom(ayumu tanaka)](https://github.com/a-rom), [@a1630ty(takashi yokogawa)](https://github.com/a1630ty), [@moritoh-ruby(aritomo moritoh)](https://github.com/moritoh-ruby), [@kurasawanko(akane kurasawa)](https://github.com/kurasawanko)
 * notes:
