@@ -26,7 +26,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * service: https://dry-earth-41231.herokuapp.com/
 * CI/test: https://travis-ci.org/terra-yucco/ruthenium/
 * backlog: https://trello.com/b/xZEWhF6m/aiit-enpit-2016-ruthenium
-* business hours: Saturday 15:00-19:30
+* business hours: Saturday 13:30-18:00
 * members: [@minimaru (Nakayama Hiroyuki)](https://github.com/minimaru), [@terra-yucco (Terashima Yuko)](https://github.com/terra-yucco), [@cloudliner (Ohno Kiyoshi)](https://github.com/cloudliner), [@b1621ry (Yamada Ryoma)](https://github.com/b1621ry), [@dtakeshima (Takeshima Daichi)](https://github.com/dtakeshima)
 * notes: -
 
