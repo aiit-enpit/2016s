@@ -56,9 +56,9 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * source: https://github.com/IshidaHIRO/SDD3
 * service: https://secure-retreat-68116.herokuapp.com/
 * CI/test: https://travis-ci.org/IshidaHIRO/SDD3
-* backlog: coming soon
+* backlog: https://github.com/IshidaHIRO/SDD3/projects/2
 * business hours: saturday 13:00-18:00
-* members: @takahashiko(Kosei Takahashi), @IshidaHIRO(Hiroyuki Ishida), @gittkrd(Kenichiro Hohda), @leyosh(Yoshihiro Yamabe)
+* members: @takahashiko(Kosei Takahashi), @IshidaHIRO(Hiroyuki Ishida), @gittkrd(Kenichiro Hohda), @leyosh(Yoshihiro Yamabe), @HirokiTakenaka(Takenaka), @tantan5(Murase)
 * notes: 
 
 
