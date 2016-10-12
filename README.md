@@ -79,9 +79,9 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * service: https://limitless-mountain-59911.herokuapp.com/
 * CI/test: https://travis-ci.org/ryupitbros4/itswitter
 * backlog: [カンバン](https://trello.com/b/OHgw1XdJ/-), [KPT分析](https://trello.com/b/9RM4lbOt/kpt)
-* business hours: monday 12:50~16:10, Wednesday 8:30~11:50
+* business hours: monday 13:00~16:00, Thursday 10:00~12:00, Saturday 09:00~10:00
 * members: [@itomasameteo(Itosu Masataka)](https://github.com/itomasameteo), [@Akio-m(Higa Akitika)](https://github.com/Akio-m), [@168572noGihu(Taguti Yuuiti)](https://github.com/168572noGihu), [@e125762(Gibo Keito)](https://github.com/e125762), [@e125743(Itou Takumi)](https://github.com/e125743)
-* notes: 8:00〜22:00以外のcommitを禁止する（オーバーワークは大敵だ）。
+* notes: 学生による8:00〜22:00以外のcommitを禁止する（オーバーワークは大敵だ）。
 
 
 
