@@ -6,7 +6,7 @@ Web Application development by agile method in class 2016
 ## <team-name> "<service name>"
 * description:
 * source: https://github.com/
-* source: http://your-service-name.herokuapp.com/
+* service: http://your-service-name.herokuapp.com/
 * CI/test: travis CI URL
 * backlog: backlog URL
 * members: github account name (real name), ...,
