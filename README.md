@@ -42,9 +42,9 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## Himeji "コーヒーを飲んだつもり貯金アプリ"
 * description: 
-* source: [https://github.com/kurasawanko/himeji](https://github.com/kurasawanko/himeji)
+* source: [ttps://github.com/Moritoh-ruby/himeji](ttps://github.com/Moritoh-ruby/himeji)
 * service: https://rocky-waters-21208.herokuapp.com/
-* CI/test: coming soon
+* CI/test: https://travis-ci.org/Moritoh-ruby/himeji
 * backlog: https://trello.com/b/bfQiEIEH/himeji
 * business hours: saturday 12:30-14:30, thursday 20:00-22:00
 * members: [@tomomi-rivers(tomomi kawabe)](https://github.com/tomomi-rivers), [@a-rom(ayumu tanaka)](https://github.com/a-rom), [@a1630ty(takashi yokogawa)](https://github.com/a1630ty), [@moritoh-ruby(aritomo moritoh)](https://github.com/moritoh-ruby), [@kurasawanko(akane kurasawa)](https://github.com/kurasawanko)
