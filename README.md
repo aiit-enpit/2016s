@@ -6,7 +6,7 @@ Web Application development by agile method in class 2016
 ## <team-name> "<service name>"
 * description:
 * source: https://github.com/
-* service: http://your-service-name.herokuapp.com/
+* service: https://your-service-name.herokuapp.com/
 * CI/test: travis CI URL
 * backlog: backlog URL
 * members: github account name (real name), ...,
@@ -42,7 +42,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 ## Himeji "コーヒーを飲んだつもり貯金アプリ"
 * description: 
-* source: [ttps://github.com/Moritoh-ruby/himeji](ttps://github.com/Moritoh-ruby/himeji)
+* source: [https://github.com/Moritoh-ruby/himeji](https://github.com/Moritoh-ruby/himeji)
 * service: https://rocky-waters-21208.herokuapp.com/
 * CI/test: https://travis-ci.org/Moritoh-ruby/himeji
 * backlog: https://trello.com/b/bfQiEIEH/himeji
