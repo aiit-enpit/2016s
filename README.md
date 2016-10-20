@@ -76,7 +76,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 ## ４代目RyuPitブラザーズ "料理、いつくる？"
 * description: 飯、待てぬ。食わねば。
 * source: https://github.com/ryupitbros4/itswitter
-* service: https://limitless-mountain-59911.herokuapp.com/
+* service: https://suitell.herokuapp.com/
 * CI/test: https://travis-ci.org/ryupitbros4/itswitter
 * backlog: [カンバン](https://trello.com/b/OHgw1XdJ/-), [KPT分析](https://trello.com/b/9RM4lbOt/kpt)
 * business hours: monday 13:00~16:00, Thursday 10:00~12:00, Saturday 09:00~10:00
