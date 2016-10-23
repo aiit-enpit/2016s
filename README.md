@@ -41,7 +41,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * notes:
 
 ## Himeji "コーヒーを飲んだつもり貯金アプリ"
-* description:したつもりをしたらお金をたまるアプリ
+* description:したつもりをしたらお金がたまるアプリ
 * source: [https://github.com/Moritoh-ruby/himeji](https://github.com/Moritoh-ruby/himeji)
 * service: https://rocky-waters-21208.herokuapp.com/
 * CI/test: https://travis-ci.org/Moritoh-ruby/himeji
