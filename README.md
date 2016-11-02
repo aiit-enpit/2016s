@@ -20,10 +20,10 @@ please update your service by your self
 
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
-## るてにうむ "これ買ってきてください。"
-* description: ちょうどいいおいしさをあなたに
+## るてにうむ "PuzzVeg"
+* description: 野菜をパズルで無駄にしない！
 * source: https://github.com/terra-yucco/ruthenium
-* service: https://dry-earth-41231.herokuapp.com/
+* service: https://puzzveg.herokuapp.com/
 * CI/test: https://travis-ci.org/terra-yucco/ruthenium/
 * backlog: https://trello.com/b/xZEWhF6m/aiit-enpit-2016-ruthenium
 * business hours: Saturday 13:30-18:00
