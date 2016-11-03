@@ -20,24 +20,24 @@ please update your service by your self
 
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
-## るてにうむ "PuzzVeg"
-* description: 野菜をパズルで無駄にしない！
+## るてにうむ "これ買ってきてください。"
+* description: ちょうどいいおいしさをあなたに
 * source: https://github.com/terra-yucco/ruthenium
-* service: https://puzzveg.herokuapp.com/
+* service: https://dry-earth-41231.herokuapp.com/
 * CI/test: https://travis-ci.org/terra-yucco/ruthenium/
 * backlog: https://trello.com/b/xZEWhF6m/aiit-enpit-2016-ruthenium
 * business hours: Saturday 13:30-18:00
 * members: [@minimaru (Nakayama Hiroyuki)](https://github.com/minimaru), [@terra-yucco (Terashima Yuko)](https://github.com/terra-yucco), [@cloudliner (Ohno Kiyoshi)](https://github.com/cloudliner), [@b1621ry (Yamada Ryoma)](https://github.com/b1621ry), [@dtakeshima (Takeshima Daichi)](https://github.com/dtakeshima)
 * notes: -
 
-## NYAMCO "おなかSwitter"
-* description: お腹が減ったらSwitter
-* source: https://github.com/aiit2016/nyamco_enpit_team
-* service: https://murmuring-citadel-48994.herokuapp.com/
-* CI/test: https://travis-ci.org/aiit2016/nyamco_enpit_team
+## NYAMCO "TochiSlide"
+* description: Share information of landslides and weather forecasts 
+* source: https://github.com/nyamco-enpit/TochiSlide
+* service: https://polar-taiga-41162.herokuapp.com/tochi_slide/index
+* CI/test: https://travis-ci.org/nyamco-enpit/TochiSlide
 * backlog: https://trello.com/b/8wf5MqEp/aiit-enpit-2016-nyamco
 * members: @a1624(張 軍), @z13052hn(二宮 啓彰), @meeeA(新井　恵), @makotomotegi(茂木　真), @yamdayk(山田　陽子), @hiroak(大橋　博明)
-* business hours: saturday 13:00-18:00
+* business hours: saturday 12:10-14:30
 * notes:
 
 ## Himeji "コーヒーを飲んだつもり貯金アプリ"
