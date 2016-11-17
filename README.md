@@ -51,15 +51,29 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * notes:
 
 
+<<<<<<< HEAD
+## SDD3  ""
+* description: 
+* source: https://github.com/IshidaHIRO/SDD3
+* service: coming soon
+* CI/test: coming soon
+* backlog: coming soon
+* business hours: coming soon
+* members: @takahashiko, 
+* notes:
 ## SDD3  "ホットメニュー"
-* description: 食べたいけどやせたいコンビニユーザーに！ 
+* description: 食べたいけどやせたいコンビニユーザーに！
+=======
+## SDD3 "ホットアイテム”
+* description:今、コンビニで話題の商品がひと目でかります！ 
 * source: https://github.com/IshidaHIRO/SDD3
 * service: https://secure-retreat-68116.herokuapp.com/
 * CI/test: https://travis-ci.org/IshidaHIRO/SDD3
-* backlog: https://github.com/IshidaHIRO/SDD3/projects/2
+* backlog: https://github.com/IshidaHIRO/SDD3/projects/3
 * business hours: saturday 13:00-18:00
 * members: @takahashiko(Kosei Takahashi), @IshidaHIRO(Hiroyuki Ishida), @gittkrd(Kenichiro Hohda), @leyosh(Yoshihiro Yamabe), @HirokiTakenaka(Takenaka), @tantan5(Murase)
 * notes: 
+>>>>>>> b4be4c437a4ba3d2a07e27650a67acc1577721ba
 
 
 ## CodeBelle "旅シェルジュ"
@@ -81,7 +95,11 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 * backlog: [カンバン](https://trello.com/b/OHgw1XdJ/-), [KPT分析](https://trello.com/b/9RM4lbOt/kpt)
 * business hours: monday 13:00~16:00, Thursday 10:00~12:00, Saturday 09:00~10:00
 * members: [@itomasameteo(Itosu Masataka)](https://github.com/itomasameteo), [@Akio-m(Higa Akitika)](https://github.com/Akio-m), [@168572noGihu(Taguti Yuuiti)](https://github.com/168572noGihu), [@e125762(Gibo Keito)](https://github.com/e125762), [@e125743(Itou Takumi)](https://github.com/e125743)
+<<<<<<< HEAD
+* notes: 8:00〜22:00以外のcommitを禁止する（オーバーワークは大敵だ）。
+=======
 * notes: 学生による8:00〜22:00以外のcommitを禁止する（オーバーワークは大敵だ）。
 
 
 
+>>>>>>> b4be4c437a4ba3d2a07e27650a67acc1577721ba
