@@ -52,11 +52,11 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 
 
 ## SDD3  "ホットメニュー"
-* description: 食べたいけどやせたいコンビニユーザーに！ 
+* description: 今、コンビニで話題の商品がひと目で分かります！ 
 * source: https://github.com/IshidaHIRO/SDD3
 * service: https://secure-retreat-68116.herokuapp.com/
 * CI/test: https://travis-ci.org/IshidaHIRO/SDD3
-* backlog: https://github.com/IshidaHIRO/SDD3/projects/2
+* backlog: https://github.com/IshidaHIRO/SDD3/projects/3
 * business hours: saturday 13:00-18:00
 * members: @takahashiko(Kosei Takahashi), @IshidaHIRO(Hiroyuki Ishida), @gittkrd(Kenichiro Hohda), @leyosh(Yoshihiro Yamabe), @HirokiTakenaka(Takenaka), @tantan5(Murase)
 * notes: 
