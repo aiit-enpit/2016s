@@ -33,6 +33,7 @@ http://enpit.aiit.ac.jp/curriculum (in Japanese)
 ## NYAMCO "TochiSlide"
 * description: Share information of landslides and weather forecasts
 * source: https://github.com/nyamco-enpit/TochiSlide
+* service: https://young-citadel-26247.herokuapp.com/posts
 * service: https://polar-taiga-41162.herokuapp.com/tochi_slide/index
 * CI/test: https://travis-ci.org/nyamco-enpit/TochiSlide
 * backlog: https://trello.com/b/8wf5MqEp/aiit-enpit-2016-nyamco
